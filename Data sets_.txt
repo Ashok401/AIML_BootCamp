@@ -1,0 +1,84 @@
+﻿Data sets:
+
+
+1. https://www.kaggle.com/datasets/spypsc07/imdb-top-movies-dataset
+2. https://www.kaggle.com/datasets/mrmars1010/iphone-customer-reviews-nlp
+3. https://www.kaggle.com/datasets/sayedmahmoud/amazanreviewscor5 ( Huge volume of data)
+
+
+
+
+1) /Users/ashokmuppala/Desktop/Work/AIML/Datasets/Cell_Phones_and_Accessories_5_part0.csv
+               asin                                         reviewText  overall                       category                                  summary
+0        7508492919  Looks even better in person. Be careful to not...      5.0  Cell_Phones_and_Accessories_5      Can't stop won't stop looking at it
+1        7508492919  When you don't want to spend a whole lot of ca...      5.0  Cell_Phones_and_Accessories_5                                        1
+2        7508492919  so the case came on time, i love the design. I...      3.0  Cell_Phones_and_Accessories_5                                 Its okay
+3        7508492919  DON'T CARE FOR IT.  GAVE IT AS A GIFT AND THEY...      2.0  Cell_Phones_and_Accessories_5                                     CASE
+4        7508492919  I liked it because it was cute, but the studs ...      4.0  Cell_Phones_and_Accessories_5                                    Cute!
+...             ...                                                ...      ...                            ...                                      ...
+1115925  B01HJC7N4C  Good for viewing. But doesn't have a button or...      4.0  Cell_Phones_and_Accessories_5                                     Good
+1115926  B01HJC7N4C  I was given the Rockrok 3D VR Glasses Headset ...      5.0  Cell_Phones_and_Accessories_5                 THE FUTURE IS NOW!!!!!!!
+1115927  B01HJC7N4C  Super Fun! The RockRoc 3d vr headset is waaaay...      5.0  Cell_Phones_and_Accessories_5  Get more out of your smartphone .......
+1115928  B01HJC7N4C  Love it!\n\nI've had other VR glasses which al...      5.0  Cell_Phones_and_Accessories_5                   Join the VR fun train!
+1115929  B01HJH9IN6                                          i love it      5.0  Cell_Phones_and_Accessories_5                               Five Stars
+[1115930 rows x 5 columns]
+2) /Users/ashokmuppala/Desktop/Work/AIML/Datasets/AMAZON_FASHION_5_part0.csv
+            asin                                         reviewText  overall          category      summary
+0     B000K2PJ4K                           Great product and price!      5.0  AMAZON_FASHION_5   Five Stars
+1     B000K2PJ4K      Waaay too small. Will use for futur children!      3.0  AMAZON_FASHION_5        Oops!
+2     B000K2PJ4K                    Stays vibrant after many washes      5.0  AMAZON_FASHION_5        Great
+3     B000K2PJ4K                    Stays vibrant after many washes      5.0  AMAZON_FASHION_5         Good
+4     B000K2PJ4K  My son really likes the pink. Ones which I was...      5.0  AMAZON_FASHION_5        Great
+...          ...                                                ...      ...               ...          ...
+3051  B005AGO4LU                                       Perfect fit!      5.0  AMAZON_FASHION_5   Five Stars
+3052  B005AGO4LU                        My favorite cross trainers!      5.0  AMAZON_FASHION_5  Comfortable
+3053  B005AGO4LU                              Love them fit perfect      5.0  AMAZON_FASHION_5   Five Stars
+3054  B005AGO4LU  Favorite Nike shoe ever! The flex sole is exce...      5.0  AMAZON_FASHION_5   Love them!
+3055  B005AGO4LU       I wear these everyday to work, the gym, etc.      5.0  AMAZON_FASHION_5   Five Stars
+[3056 rows x 5 columns]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3) /Users/ashokmuppala/Desktop/Work/AIML/Datasets/iphone.csv
+     productAsin country        date  isVerified  ...                                          reviewUrl                             reviewedIn                            variant variantAsin
+0     B09G9BL5CP   India  11-08-2024        True  ...  https://www.amazon.in/gp/customer-reviews/R345...    Reviewed in India on 11 August 2024       Colour: MidnightSize: 256 GB  B09G9BQS98
+1     B09G9BL5CP   India  16-08-2024        True  ...  https://www.amazon.in/gp/customer-reviews/R2HJ...    Reviewed in India on 16 August 2024       Colour: MidnightSize: 256 GB  B09G9BQS98
+2     B09G9BL5CP   India  14-05-2024        True  ...  https://www.amazon.in/gp/customer-reviews/R3Y7...       Reviewed in India on 14 May 2024       Colour: MidnightSize: 256 GB  B09G9BQS98
+3     B09G9BL5CP   India  24-06-2024        True  ...  https://www.amazon.in/gp/customer-reviews/R1P9...      Reviewed in India on 24 June 2024       Colour: MidnightSize: 256 GB  B09G9BQS98
+4     B09G9BL5CP   India  18-05-2024        True  ...  https://www.amazon.in/gp/customer-reviews/R1XI...       Reviewed in India on 18 May 2024       Colour: MidnightSize: 256 GB  B09G9BQS98
+...          ...     ...         ...         ...  ...                                                ...                                    ...                                ...         ...
+3057  B09G9D8KRQ   India  11-10-2023        True  ...  https://www.amazon.in/gp/customer-reviews/R10O...   Reviewed in India on 11 October 2023  Colour: (PRODUCT) REDSize: 128 GB  B09G99CW2N
+3058  B09G9D8KRQ   India  14-10-2022        True  ...  https://www.amazon.in/gp/customer-reviews/R2FW...   Reviewed in India on 14 October 2022  Colour: (PRODUCT) REDSize: 128 GB  B09G99CW2N
+3059  B09G9D8KRQ   India  24-02-2022        True  ...  https://www.amazon.in/gp/customer-reviews/R2C7...  Reviewed in India on 24 February 2022  Colour: (PRODUCT) REDSize: 128 GB  B09G99CW2N
+3060  B09G9D8KRQ   India  16-10-2023        True  ...  https://www.amazon.in/gp/customer-reviews/R3K0...   Reviewed in India on 16 October 2023  Colour: (PRODUCT) REDSize: 128 GB  B09G99CW2N
+3061  B09G9D8KRQ   India  11-11-2023        True  ...  https://www.amazon.in/gp/customer-reviews/R2QO...  Reviewed in India on 11 November 2023  Colour: (PRODUCT) REDSize: 128 GB  B09G99CW2N
+[3062 rows x 11 columns]
+
+
+4) /Users/ashokmuppala/Desktop/Work/AIML/Datasets/top_movies.csv
+                            movie_name                    genre                                        description
+0             The Shawshank Redemption             Drama, Crime  Imprisoned in the 1940s for the double murder ...
+1                        The Godfather             Drama, Crime  Spanning the years 1945 to 1955, a chronicle o...
+2                The Godfather Part II             Drama, Crime  In the continuing saga of the Corleone crime f...
+3                     Schindler's List      Drama, History, War  The true story of how businessman Oskar Schind...
+4                         12 Angry Men                    Drama  The defense and the prosecution have rested an...
+...                                ...                      ...                                                ...
+9415                       The Misfits         Action, Thriller  After being recruited by a group of unconventi...
+9416                    A Serbian Film  Crime, Horror, Thriller  Retired porn star Milos leads a normal family ...
+9417  The Night Before the Exams Today                   Comedy  In 2006, as World Cup fever sweeps Italy, high...
+9418                         Problemos                   Comedy  When a pandemic strikes the world, Victor and ...
+9419   Candyman: Farewell to the Flesh         Horror, Thriller  Annie, a young schoolteacher struggling to sol...
+[9420 rows x 3 columns]
