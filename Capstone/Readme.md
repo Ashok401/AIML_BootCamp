@@ -1,7 +1,7 @@
 ### iPhone reviews sentiment and aspect-based sentiment analysis
 
 
-# This project comprises four subtasks:
+### This project comprises four subtasks:
 
 ### Subtask 1: Sentiment Analysis 
 
