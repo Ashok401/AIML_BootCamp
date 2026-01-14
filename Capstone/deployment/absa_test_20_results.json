@@ -1,0 +1,174 @@
+[
+  {
+    "test_id": 1,
+    "review_snippet": "Faulty product The phone doesn\u2019t charge and Amazon guys neither gives replacement nor do they help s...",
+    "full_review": "Faulty product The phone doesn\u2019t charge and Amazon guys neither gives replacement nor do they help service centre assistance at home. Poor service by Amazon and sub seller who is selling",
+    "aspects": {
+      "battery": {
+        "sentiment": "negative",
+        "confidence": 0.7811027580023171
+      }
+    }
+  },
+  {
+    "test_id": 2,
+    "review_snippet": "happy with the phone but unhappy with Amazon and vendor unhappy because no cost emi still charging g...",
+    "full_review": "happy with the phone but unhappy with Amazon and vendor unhappy because no cost emi still charging gst + interest which was useless decision to buy the phone from the Amazon.",
+    "aspects": {}
+  },
+  {
+    "test_id": 3,
+    "review_snippet": "Battery health was not as expected The product is good for sure.Battery health was at 87%, it disapp...",
+    "full_review": "Battery health was not as expected The product is good for sure.Battery health was at 87%, it disappointed me. Few scratches on the hardware. Acceptable, but definitely it could be better.",
+    "aspects": {
+      "battery": {
+        "sentiment": "negative",
+        "confidence": 0.7528552583765268
+      }
+    }
+  },
+  {
+    "test_id": 4,
+    "review_snippet": "Missing pink color I have returned item due to I got same iphone 13 in lesser price.. but ordered in...",
+    "full_review": "Missing pink color I have returned item due to I got same iphone 13 in lesser price.. but ordered in blue \ud83d\udd35 color pink one have better look as i feel",
+    "aspects": {}
+  },
+  {
+    "test_id": 5,
+    "review_snippet": "Alhamdulillah One More Added By The Mercy Of Allah SWT \ud83d\udc97 Performance , sound quality , value for mon...",
+    "full_review": "Alhamdulillah One More Added By The Mercy Of Allah SWT \ud83d\udc97 Performance , sound quality , value for money , fast charging , touch is very good , battery is \ud83d\udc4d\ud83c\udffb",
+    "aspects": {
+      "battery": {
+        "sentiment": "positive",
+        "confidence": 0.5579362996808496
+      },
+      "performance": {
+        "sentiment": "positive",
+        "confidence": 0.6776698737099581
+      }
+    }
+  },
+  {
+    "test_id": 6,
+    "review_snippet": "Literally amazing I love everything about this phone Came with 100% battery health no scratches what...",
+    "full_review": "Literally amazing I love everything about this phone Came with 100% battery health no scratches what so ever I am definitely looking forward to future purchases from this seller. In love",
+    "aspects": {
+      "battery": {
+        "sentiment": "positive",
+        "confidence": 0.6372907254742843
+      }
+    }
+  },
+  {
+    "test_id": 7,
+    "review_snippet": "Phone kept restarting on its own UTTER WASTE OF MONEY!! After few days of usage, the phone kept turn...",
+    "full_review": "Phone kept restarting on its own UTTER WASTE OF MONEY!! After few days of usage, the phone kept turning off repeatedly. It's better to buy iPhone from an authentic Apple showroom.",
+    "aspects": {}
+  },
+  {
+    "test_id": 8,
+    "review_snippet": "Nothing special What do you want to hear about iPhone,if you are reading this review,it means that y...",
+    "full_review": "Nothing special What do you want to hear about iPhone,if you are reading this review,it means that you have already done enough research to buy it.so, congratulations for your new iphone\ud83c\udf89",
+    "aspects": {}
+  },
+  {
+    "test_id": 9,
+    "review_snippet": "Nothing special What do you want to hear about iPhone,if you are reading this review,it means that y...",
+    "full_review": "Nothing special What do you want to hear about iPhone,if you are reading this review,it means that you have already done enough research to buy it.so, congratulations for your new iphone\ud83c\udf89",
+    "aspects": {}
+  },
+  {
+    "test_id": 10,
+    "review_snippet": "This is a the attempt to purchase for in all i-phone family... although, i-phone handling is quite d...",
+    "full_review": "This is a the attempt to purchase for in all i-phone family... although, i-phone handling is quite different in compare to android phone. But this number is comparatively easier than others.",
+    "aspects": {}
+  },
+  {
+    "test_id": 11,
+    "review_snippet": "Silent button not working The silent button is not working nd the window was also closed very early ...",
+    "full_review": "Silent button not working The silent button is not working nd the window was also closed very early i want to replace it please help me or fix me this issue",
+    "aspects": {}
+  },
+  {
+    "test_id": 12,
+    "review_snippet": "It is really smart Like : Siri, camera, security features, battery , one hand operation , fit\u00e2\u20ac\u2122s ea...",
+    "full_review": "It is really smart Like : Siri, camera, security features, battery , one hand operation , fit\u00e2\u20ac\u2122s easily in pocket.Dislike: the front camera set up blocks considerable amount screen at top.",
+    "aspects": {
+      "battery": {
+        "sentiment": "positive",
+        "confidence": 0.6561799754489845
+      },
+      "display": {
+        "sentiment": "negative",
+        "confidence": 0.506257682571456
+      },
+      "camera": {
+        "sentiment": "positive",
+        "confidence": 0.5080115923118826
+      }
+    }
+  },
+  {
+    "test_id": 13,
+    "review_snippet": "This is a the attempt to purchase for in all i-phone family... although, i-phone handling is quite d...",
+    "full_review": "This is a the attempt to purchase for in all i-phone family... although, i-phone handling is quite different in compare to android phone. But this number is comparatively easier than others.",
+    "aspects": {}
+  },
+  {
+    "test_id": 14,
+    "review_snippet": "82% battery I ordered what it was supposed to be an \"excellent\" product, and although it seems to be...",
+    "full_review": "82% battery I ordered what it was supposed to be an \"excellent\" product, and although it seems to be impecable on the outside, it came with battery capacity at 82% only.",
+    "aspects": {
+      "battery": {
+        "sentiment": "negative",
+        "confidence": 0.7100041323892755
+      }
+    }
+  },
+  {
+    "test_id": 15,
+    "review_snippet": "In good condition There were no particular issues with the appearance or operation. The outer box an...",
+    "full_review": "In good condition There were no particular issues with the appearance or operation. The outer box and accessories are also in good condition and look like new, so I'm very satisfied.",
+    "aspects": {}
+  },
+  {
+    "test_id": 16,
+    "review_snippet": "Does not get tower signal well As a phone, not great. Does not get signal where even 2000 rupee phon...",
+    "full_review": "Does not get tower signal well As a phone, not great. Does not get signal where even 2000 rupee phone works. Camera is good, but phone should first work as phone",
+    "aspects": {
+      "camera": {
+        "sentiment": "positive",
+        "confidence": 0.5606596652580086
+      }
+    }
+  },
+  {
+    "test_id": 17,
+    "review_snippet": "Missing pink color I have returned item due to I got same iphone 13 in lesser price.. but ordered in...",
+    "full_review": "Missing pink color I have returned item due to I got same iphone 13 in lesser price.. but ordered in blue \ud83d\udd35 color pink one have better look as i feel",
+    "aspects": {}
+  },
+  {
+    "test_id": 18,
+    "review_snippet": "As usual iPhone is just fine only I don\u2019t Iike it\u2019s  blue I like the shape and  size, but it\u2019s rathe...",
+    "full_review": "As usual iPhone is just fine only I don\u2019t Iike it\u2019s  blue I like the shape and  size, but it\u2019s rather heavy and the blue tint is not what I expected.",
+    "aspects": {}
+  },
+  {
+    "test_id": 19,
+    "review_snippet": "Battery backup I requested to all persons if they want good battery backup then don't buy iPhone 13 ...",
+    "full_review": "Battery backup I requested to all persons if they want good battery backup then don't buy iPhone 13 because his backup is only 7 to 9 hours after charging one time",
+    "aspects": {
+      "battery": {
+        "sentiment": "positive",
+        "confidence": 0.5087774532567891
+      }
+    }
+  },
+  {
+    "test_id": 20,
+    "review_snippet": "Price has been dropped on flipcart, showing 65000, I purchased on 70499 Product is good but almost 6...",
+    "full_review": "Price has been dropped on flipcart, showing 65000, I purchased on 70499 Product is good but almost 6k less in flipcart for the same product. It makes me feel bit sad",
+    "aspects": {}
+  }
+]
